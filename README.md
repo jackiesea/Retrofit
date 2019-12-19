@@ -1,2 +1,2 @@
 # Retrofit
-Retrofit封装框架
+Retrofit封装框架，可运行，但不保证一定不存在bug！
